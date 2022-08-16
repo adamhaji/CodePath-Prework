@@ -1,14 +1,13 @@
 ## CodePath - HelloWorld App
 
 ### App Description
-`TODO://` Add app description
+`Simple app that allows users to see a label stating "Hello from Adam!" and a button that states "Change Text Color". Users can press the button to change the color of the background to one of five random colors (red, blue, green, yellow, purple). After the first time pressing the button the color of the label is also changed from white to black. 
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://im2.ezgif.com/tmp/ezgif-2-62d1ac099e.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
