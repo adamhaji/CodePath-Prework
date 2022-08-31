@@ -8,6 +8,7 @@ Simple app that allows users to see a label stating "Hello from Adam!" and a but
 
 <img src="https://im2.ezgif.com/tmp/ezgif-2-62d1ac099e.gif" width=200><br>
 
+/Users/adamhaji/Documents/CodePath/CodePath-Prework/ezgif.com-gif-maker.gif
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
