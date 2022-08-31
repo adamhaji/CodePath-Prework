@@ -6,7 +6,7 @@ Simple app that allows users to see a label stating "Hello from Adam!" and a but
 
 ### App Walk-though
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-62d1ac099e.gif" width=200><br>
+<img src="http://g.recordit.co/2cUP2DUN7F.gif" width=200><br>
 
 /Users/adamhaji/Documents/CodePath/CodePath-Prework/ezgif.com-gif-maker.gif
 
