@@ -7,7 +7,7 @@ Simple app that allows users to see a label stating "Hello from Adam!" and a but
 ### App Walk-though
 
 <img src="http://g.recordit.co/2cUP2DUN7F.gif" width=200><br>
-
+ 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
